@@ -1,32 +1,32 @@
 <!-- inicia EL BURRITO DE BELEN-->
 ###EL PUERQUITO DE BELEN###
 
-#Hay un puerquito embustero y hoy se ciñe en el poder. X2
-#Yo no se, yo no se, que es lo que vamos a hacer. X2
-#El presupuesto educativo esta tomando otro sendero. X2
-#Yo no se, yo no se, que es lo que vamos a hacer. X2
-#Nosotros aqui tan pinchados, los corruptos van trotando. X2
-#Yo no se, yo no se, que es lo que vamos a hacer. X2
+- Hay un puerquito embustero y hoy se ciñe en el poder. X2
+- Yo no se, yo no se, que es lo que vamos a hacer. X2
+- El presupuesto educativo esta tomando otro sendero. X2
+- Yo no se, yo no se, que es lo que vamos a hacer. X2
+- Nosotros aqui tan pinchados, los corruptos van trotando. X2
+- Yo no se, yo no se, que es lo que vamos a hacer. X2
 
-#Duque duque duque duque, duque duque donde estas.
-#Mandanos el presupuesto que queremos estudiar.
-#Duque duque duque duque, duque duque donde estas.
-#Mandanos el presupuesto, se acabo el año fiscal.
+- Duque duque duque duque, duque duque donde estas.
+- Mandanos el presupuesto que queremos estudiar.
+- Duque duque duque duque, duque duque donde estas.
+- Mandanos el presupuesto, se acabo el año fiscal.
 
-#Hay un puerquito embustero y hoy se ciñe en el poder. X2
-#Yo no se, yo no se, que es lo que vamos a hacer. X2
-#El presupuesto educativo esta tomando otro sendero. X2
-#Yo no se, yo no se, que es lo que vamos a hacer. X2
-#Nosotros aqui tan pinchados, los corruptos van trotando. X2
-#Yo no se, yo no se, que es lo que vamos a hacer. X2
+- Hay un puerquito embustero y hoy se ciñe en el poder. X2
+- Yo no se, yo no se, que es lo que vamos a hacer. X2
+- El presupuesto educativo esta tomando otro sendero. X2
+- Yo no se, yo no se, que es lo que vamos a hacer. X2
+- Nosotros aqui tan pinchados, los corruptos van trotando. X2
+- Yo no se, yo no se, que es lo que vamos a hacer. X2
 
-#Duque duque duque duque, duque duque donde estas.
-#Mandanos el presupuesto que queremos estudiar.
-#Duque duque duque duque, duque duque donde estas.
-#Mandanos el presupuesto, se acabo el año fiscal.
+- Duque duque duque duque, duque duque donde estas.
+- Mandanos el presupuesto que queremos estudiar.
+- Duque duque duque duque, duque duque donde estas.
+- Mandanos el presupuesto, se acabo el año fiscal.
 
-#Hay un puerquito embustero y hoy se ciñe en el poder. X2
-#Yo no se, yo no se, que es lo que vamos a hacer. X2
+- Hay un puerquito embustero y hoy se ciñe en el poder. X2
+- Yo no se, yo no se, que es lo que vamos a hacer. X2
 
 	Nuestro puerquito embustero, hoy se ciñe en el poder
 	Hay un puerquito embustero, y hoy se ciñe en el poder
@@ -46,24 +46,23 @@
 <!-- inicia TUTAINA TUTURUMAINA-->
 ###QUE VAINA###
 
-#Que vaina no roben mas
-#Hermano, que es esa vaina
-#Que vaina no roben mas, ya no mas
-#Hermano, que es esa vaina
+- Que vaina no roben mas
+- Hermano, que es esa vaina
+- Que vaina no roben mas, ya no mas
+- Hermano, que es esa vaina
 
-#Pasa lo mismo siempre
-#Vienen a mamarnos gallo
-#Los volvemos a elegir
-#Y son cuatro años chillando
+- Pasa lo mismo siempre
+- Vienen a mamarnos gallo
+- Los volvemos a elegir
+- Y son cuatro años chillando
 
-#Que vaina no roben mas
-#Hermano, que es esa vaina
-#Que vaina no roben mas, ya no mas
-#Hermano, que es esa vaina
+- Que vaina no roben mas
+- Hermano, que es esa vaina
+- Que vaina no roben mas, ya no mas
+- Hermano, que es esa vaina
 
-
-#Y a colombia ellos ven
-#Como el mas grande tesoro
+- Y a colombia ellos ven.
+- Como el mas grande tesoro.
 
 	Y son cuatro años rogando
 	7 leyes vienen tambien?
