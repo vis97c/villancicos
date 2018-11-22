@@ -143,7 +143,9 @@
 # Salvese quien pueda, yo no me salve
 # yo le debo plata a el icetex X2
 
-# en esta tierrita
+# En esta tierrita, pobres la familias
+# faltas de recursos, pero mas les quitan
+# faltas de recursos, pero mas les quitan
 
 # Salvese quien pueda, yo no me salve
 # yo le debo plata a el icetex
@@ -153,6 +155,14 @@
 # el malvado Duque, con sus turbios planes.
 # esconde la plata, al pueblo inocente.
 # esconde la plata, al pueblo inocente.
+
+# Salvese quien pueda, yo no me salve
+# yo le debo plata a el icetex
+# Salvese quien pueda, yo no me salve
+# yo le debo plata a el icetex X2
+
+	sufren sus bolsillos, eh ave maria
+	faltan los recursos, 
 
 <!--termina SALVE REINA Y MADRE-->
 
