@@ -143,15 +143,56 @@
 # Salvese quien pueda, yo no me salve
 # yo le debo plata a el icetex X2
 
+# en esta tierrita
+
+# Salvese quien pueda, yo no me salve
+# yo le debo plata a el icetex
+# Salvese quien pueda, yo no me salve
+# yo le debo plata a el icetex X2
+
 # el malvado Duque, con sus turbios planes.
 # esconde la plata, al pueblo inocente.
 # esconde la plata, al pueblo inocente.
 
 <!--termina SALVE REINA Y MADRE-->
 
-<!--inicia LOS CAMPANAS DE BELEN-->
-###CORRUPTOS DE BELEN?###
-<!--termina CAMPANAS DE BELEN-->
+<!--inicia LOS CAMPANA SOBRE CAMPANA-->
+###CORRUPTO SOBRE CORRUPTO?###
+
+# corruptos en el senado
+# mandemolos a la luna
+# asomado en la ventana
+# de palacio esta el mayor
+
+# no mas, corrupcion ya no mas
+# los bolsillos nos tocan
+# y eso nuevo no es
+
+# El rebaño alborotado
+# "Babe" yo no es tan valiente //termina referencia a pelicula
+# Cree que nos va a comprar
+# con maluma en concierto
+
+# no mas, corrupcion ya no mas
+# los bolsillos nos tocan
+# y eso nuevo no es
+
+# corruptos en el congreso
+# no se pierden de ninguna
+# ya cerraron la ventana
+# el pueblo ya desperto
+
+# no mas, corrupcion ya no mas
+# los bolsillos nos tocan
+# y eso nuevo no es
+
+# corruptos en el palacio
+# dicen que son marionetas
+# pronto llegara la hora
+# que no nos toque padecer
+
+	
+<!--termina CAMPANA SOBRE CAMPANA-->
 
 <!--inicia LOS MAMA DONDE ESTAN LOS JUGUETES -->
 ###DONDE ESTA EL PRESUPUESTO###

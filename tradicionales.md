@@ -172,3 +172,38 @@ Por eso no los trajo
 Mi amor ya no te sientas triste mi amor si a tu lado me tienes
 y así esperaremos juntos, rezaremos al cielo hasta el año que viene
 y así esperaremos juntos, rezaremos al cielo hasta el año que viene
+
+
+CAMPANA SOBRE CAMPANA
+
+Campana sobre campana, 
+y sobre campana una, 
+asómate a la ventana, 
+verás el Niño en la cuna. 
+
+Belén, campanas de Belén, 
+que los Ángeles tocan 
+qué nueva me traéis? 
+
+Recogido tu rebaño 
+a dónde vas pastorcillo? 
+Voy a llevar al portal 
+requesón, manteca y vino. 
+
+Belén, campanas de Belén, 
+que los Ángeles tocan 
+qué nuevas me traéis? 
+
+Campana sobre campana, 
+y sobre campana dos, 
+asómate a esa ventana, 
+porque ha nacido Dios. 
+
+Belén, campanas de Belén, 
+que los Ángeles tocan 
+qué nuevas me traéis? 
+
+Campana sobre campana, 
+y sobre campana tres, 
+en una Cruz a esta hora, 
+el Niño va a padecer.
