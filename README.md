@@ -1,22 +1,28 @@
 <!--inicia EL BURRITO DE BELEN-->
 ###EL PUERQUITO DE BELEN###
 
-Hay un puerquito embustero y hoy se ciñe en el poder ...(BIS)
-Yo no se, yo no se, que es lo que vamos a hacer ...(BIS)
-El presupuesto educativo esta tomando otro sendero ...(BIS)
-Yo no se, yo no se, que es lo que vamos a hacer ...(BIS)
-Mientras maluma esta cantando, los corruptos van trotando ...(BIS)
-Yo no se, yo no se, que es lo que vamos a hacer ...(BIS)
+EL PUERQUITO EN EL PODER
+El burrito de Belén.
 
-Duque duque duque duque, duque duque donde estas.
-Soltanos el presupuesto que queremos estudiar.
-Duque duque duque duque, duque duque donde estas.
-Soltanos el presupuesto, se acabo el año fiscal.
+Ese puerquito embustero nos tiene en la sartén ...(BIS)
+Yo no sé, yo no sé,
+qué es lo que vamos a hacer ...(BIS)
+El presupuesto educativo
+está tomando otro sendero ...(BIS)
+...(ESTRIBILLO)
+Mientras Maluma está cantando,
+los corruptos van trotando ...(BIS)
+...(ESTRIBILLO)
 
-...(1 VEZ MAS)
+Duque, Duque, Duque, Duque.
+Duque, Duque ¿Donde estás?
+Soltanos el presupuesto
+que queremos estudiar ...(BIS)
 
-Hay un puerquito embustero y hoy se ciñe en el poder ...(BIS)
-Yo no se, yo no se, que es lo que vamos a hacer ...(BIS)
+...(DESDE EL PRINCIPIO UNA VEZ MÁS)
+
+Ese puerquito embustero nos tiene en la sartén ...(BIS)
+...(ESTRIBILLO)
 
 	Nuestro puerquito embustero, hoy se ciñe en el poder
 	Hay un puerquito embustero, y hoy se ciñe en el poder
@@ -43,12 +49,12 @@ Dios mio, que esta vaina
 
 Los corruptos del pais
 Quieren apropiarse todo
-Con el paro nacional
-los ponemos en su sitio
+Y en empeño tienen ya.
+a la casa de Nariño.
 
 ...(CORO)
 
-Pasa lo mismo siempre
+Siempre pasa lo mismo.
 Vienen a mamarnos gallo
 Los volvemos a elegir
 Y son cuatro años chillando
@@ -60,6 +66,10 @@ A las calles este dia
 No nos dejemos ganar
 la patria nos necesita
 
+	ya montaron su
+	Con el paro nacional
+	los ponemos en su sitio
+	Pasa lo mismo siempre
 	Y a colombia ellos ven.
 	Como el mas grande tesoro.
 	Los corruptos del pais
@@ -151,18 +161,18 @@ coro
 ###CORRUPTO SOBRE CORRUPTO?###
 
 Corruptos en el senado
-mandemolos a la luna
-asomado en la ventana
-de palacio esta el mayor
+mandemolos a la luna.
+Se asoman a la ventana,
+pronto acabara su fortuna.
 
-No mas, corrupcion ya no mas
+No mas, corruptos ya no mas
 los bolsillos nos tocan
 y eso nuevo no es
 
-Con el rebaño alborotado
-no se sienten tan valientes
-Creen que nos van a comprar
-con maluma en concierto
+Procesados este año,
+se escondieron esos pillos.
+Y nos quieren engañar
+culpando a ese otro pingüino.
 
 ...(CORO)
 
@@ -179,7 +189,13 @@ pronto llegara la hora
 que no nos toque padecer
 
 ...(CORO)
-	
+
+	puerquecito
+	Con el rebaño alborotado
+	no se sienten tan valientes
+	Creen que nos van a comprar
+	con maluma en concierto
+	veras un puerco en la Luna
 	"Babe" ya no es tan valiente //termina referencia a pelicula
 <!--termina CAMPANA SOBRE CAMPANA-->
 
